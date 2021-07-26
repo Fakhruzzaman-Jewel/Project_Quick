@@ -1,0 +1,36 @@
+/*header start*/
+header{}
+.container {
+	width: 90%;
+	border: 1px solid;
+	margin: 0 auto;
+
+}
+
+.logo {
+	width: 10%;
+	border: 1px solid red;
+}
+
+.logo a{
+}
+
+.logo a img{
+	width: 100%;
+}
+
+.menu {
+	width: 40%;
+	border: 1px solid red;
+}
+
+.menu ul{
+}
+
+.menu ul li{
+}
+
+.menu ul li a{
+}
+
+/*header end*/
